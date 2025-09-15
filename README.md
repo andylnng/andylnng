@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Andy Luong**
 
-💻 **Full-Stack Developer** | 🎯 **Software Engineering Student**  
+🎯 **Software Engineering Student**  
 📍 Montreal, QC, Canada  
 🌐 [www.andyluong.com](http://www.andyluong.com)
 
