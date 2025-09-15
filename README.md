@@ -2,7 +2,6 @@
 
 💻 **Full-Stack Developer** | 🎯 **Software Engineering Student**  
 📍 Montreal, QC, Canada  
-📧 [andy.luong.1@ens.etsml.ca](mailto:andy.luong.1@ens.etsml.ca)  
 🌐 [www.andyluong.com](http://www.andyluong.com)
 
 ---
@@ -48,7 +47,3 @@
 - 🇬🇧 English
 
 ---
-
-## 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andy%20Luong-blue?style=for-the-badge&l)]()
